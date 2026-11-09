@@ -141,13 +141,29 @@ processos, dados, infraestrutura e necessidades de negócio.
 
 ------------------------------------------------------------------------
 
-## 🏅 Certificações
+## 🏅 Certifications
 
--   AWS Certified Cloud Practitioner.
--   Oracle Cloud Infrastructure 2025 AI Foundations Associate.
--   Astronomer Certification --- Apache Airflow 2 Fundamentals.
--   ISO/IEC 27001 Information Security Associate.
--   Databricks Fundamentals.
+### 🤖 Artificial Intelligence & Cloud
+
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure 2025 AI Foundations Associate
+- Oracle Cloud Infrastructure 2025 Foundations Associate
+- Oracle Data Platform 2025 Foundations Associate
+
+### ⚙️ Data Engineering & Orchestration
+
+- Astronomer Certification for Apache Airflow 2 Fundamentals
+
+### 🔐 Security & Governance
+
+- ISO/IEC 27001 Information Security Associate
+- Cyber Security Foundation Professional Certificate (CSFPC)
+
+### 🔄 Agile & Process Improvement
+
+- Scrum Fundamentals Certified (SFC)
+- Kanban Foundations (KIKF)
+- Six Sigma Yellow Belt (SSYB)
 
 ------------------------------------------------------------------------
 
